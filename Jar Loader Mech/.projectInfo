@@ -1,0 +1,12 @@
+>JDK Path
+-/usr/lib/jvm/jdk-16
+>Compile_Time
+-
+>Run_Time
+-
+>Main Class
+-omega.deassembler.JarLoader
+>Non-Java Project
+-false
+>Opened Editors on Main Tab Panel
+-/home/ubuntu/Documents/Omega Projects/Jar Loader Mech/src/omega/deassembler/ByteReader.java
